@@ -52,3 +52,8 @@ for dirName, subdirList, fileList in os.walk(rootDir):
     for fname in fileList:
         print('\t%s' % fname)
 
+os.walk takes care of the details, and on every pass of the loop, it gives us three things:
+
+ - dirName: The next directory it found.
+ - subdirList: A list of sub-directories in the current directory.
+ - fileList: A list of files in the current directory.
