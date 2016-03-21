@@ -10,3 +10,31 @@ Here we do all of this again (work at lvl2, subdirs are 3,6).
 And go deeper. 
 When we reach the end (4) and work at this lvl is done, we go up one level, and go deeper to another non-visited dir (5). 
 When there is no way to go deeper go up one level, and try to find another way down again.
+
+
+
+#==========Example==========
+#!/usr/bin/python
+
+import os, sys
+
+# Open a file
+path = "/var/www/html/"
+dirs = os.listdir( path )
+
+# This would print all the files and directories
+for file in dirs:
+   print file
+When we run above program, it produces following result:
+
+test.htm
+stamp
+faq.htm
+_vti_txt
+robots.txt
+itemlisting
+resumelisting
+writing_effective_resume.htm
+advertisebusiness.htm
+papers
+resume
