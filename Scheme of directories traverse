@@ -1,0 +1,3 @@
+DFS
+https://upload.wikimedia.org/wikipedia/commons/1/1f/Depth-first-tree.svg
+In pic numbers are directories. So, at first, we are located  in our "root" dir (1). Then we do Work at this level (search for files/dirs, compare, sync, etc.). Now we have a list of subdirs at this level (2,7,8). So we go deeper into one level to (2). Here we do all of this again (work at lvl2, subdirs are 3,6). And go deeper. When we reach the end (4) and work at this lvl is done, we go up one level, and go deeper to another non-visited dir (5). When there is no way to go deeper go up one level, and try to find another way down again.
