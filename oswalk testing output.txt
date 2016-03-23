@@ -1,0 +1,29 @@
+directory . is ready to sync. It has files: ['1.txt', 'changelog.txt', 'EULA.txt', 'GameuxInstallHelper.dll', 'gog.ico', 'goggame-1207665503.dll', 'goggame-1207665503.hashdb', 'goggame-1207665503.ico', 'goggame-1207665503.info', 'goglog.ini', 'Launch Terraria.lnk', 'OSwalk.py', 'serverconfig.txt', 'start-server.bat', 'Support.ico', 'Terraria.exe', 'TerrariaServer.exe', 'unins000.dat', 'unins000.exe', 'unins000.msg', 'webcache.zip']
+--
+directory .\Content is ready to sync. It has files: ['PixelShader.xnb', 'ScreenShader.xnb', 'Sound Bank.xsb', 'TerrariaMusic.xgs', 'TileShader.xnb', 'Wave Bank.xwb']
+--
+directory .\Content\Fonts is ready to sync. It has files: ['Combat_Crit.xnb', 'Combat_Text.xnb', 'Death_Text.xnb', 'Item_Stack.xnb', 'Mouse_Text.xnb', 'Title_Font.xnb']
+--
+directory .\Content\Images is ready to sync. It has files: ['Acc_Back_1.xnb', 'Acc_Back_2.xnb', 'Acc_Back_3.xnb', 'Acc_Back_4.xnb', 'Acc_Back_5.xnb', 'Acc_Back_6.xnb', 'Acc_Back_7.xnb', 'Acc_Back_8.xnb', 'Acc_Back_9.xnb', 'Acc_Balloon_1.xnb', 'Acc_Balloon_10.xnb', 'Acc_Balloon_11.xnb', 'Acc_Balloon_12.xnb', 'Acc_Balloon_13.xnb', 'Acc_Balloon_14.xnb', 'Acc_Balloon_15.xnb', 'Acc_Balloon_2.xnb', 'Acc_Balloon_3.xnb', 'Acc_Balloon_4.xnb', 'Acc_Balloon_5.xnb', 'Acc_Balloon_6.xnb', 'Acc_Balloon_7.xnb', 'Acc_Balloon_8.xnb', 'Acc_Balloon_9.xnb', 'Acc_Face_1.xnb', 'Acc_Face_2.xnb', 'Acc_Face_3.xnb', 'Acc_Face_4.xnb', 'Acc_Face_5.xnb', 'Acc_Face_6.xnb', 'Acc_Face_7.xnb', 'Acc_Face_8.xnb', 'Acc_Front_1.xnb', 'Acc_Front_2.xnb', 'Acc_Front_3.xnb', 'Acc_Front_4.xnb', 'Acc_HandsOff_1.xnb', 'Acc_HandsOff_10.xnb', 'Acc_HandsOff_11.xnb', 'Acc_HandsOff_2.xnb', 'Acc_HandsOff_3.xnb', 'Acc_HandsOff_4.xnb', 'Acc_HandsOff_5.xnb', 'Acc_HandsOff_6.xnb', 'Acc_HandsOff_7.xnb', 
+...
+'Wires3.xnb', 'Wraith_Eyes.xnb', 'XmasLight.xnb', 'Xmas_0.xnb', 'Xmas_1.xnb', 'Xmas_2.xnb', 'Xmas_3.xnb', 'Xmas_4.xnb']
+--
+directory .\Content\Images\Backgrounds is ready to sync. It has files: ['Underworld 0.xnb', 'Underworld 1.xnb', 'Underworld 2.xnb', 'Underworld 3.xnb', 'Underworld 4.xnb']
+--
+directory .\Content\Images\Misc is ready to sync. It has files: ['noise.xnb', 'Perlin.xnb', 'Sky_Slime_1.xnb', 'Sky_Slime_2.xnb', 'Sky_Slime_3.xnb', 'Sky_Slime_4.xnb', 'water_0.xnb', 'water_1.xnb', 'water_10.xnb', 'water_11.xnb', 'water_2.xnb', 'water_3.xnb', 'water_4.xnb', 'water_5.xnb', 'water_6.xnb', 'water_7.xnb', 'water_8.xnb', 'water_9.xnb']
+--
+directory .\Content\Images\Misc\MoonExplosion is ready to sync. It has files: ['Explosion.xnb', 'Head.xnb', 'Shoulder.xnb', 'Spine.xnb', 'Torso.xnb']
+--
+directory .\Content\Images\Misc\NebulaSky is ready to sync. It has files: ['Background.xnb', 'Beam.xnb', 'Planet.xnb', 'Rock_0.xnb', 'Rock_1.xnb', 'Rock_2.xnb']
+--
+directory .\Content\Images\Misc\SolarSky is ready to sync. It has files: ['Background.xnb', 'Meteor.xnb', 'Planet.xnb']
+--
+directory .\Content\Images\Misc\StarDustSky is ready to sync. It has files: ['Background.xnb', 'Planet.xnb', 'Star 0.xnb', 'Star 1.xnb']
+--
+directory .\Content\Images\Misc\VortexSky is ready to sync. It has files: ['Background.xnb', 'Bolt.xnb', 'Flash.xnb', 'Planet.xnb']
+--
+directory .\Content\Images\UI is ready to sync. It has files: ['Achievements.xnb', 'Achievement_Borders.xnb', 'Achievement_Categories.xnb', 'Achievement_InnerPanelBottom.xnb', 'Achievement_InnerPanelTop.xnb', 'ButtonCloudActive.xnb', 'ButtonCloudInactive.xnb', 'ButtonDelete.xnb', 'ButtonFavoriteActive.xnb', 'ButtonFavoriteInactive.xnb', 'ButtonPlay.xnb', 'Camera_0.xnb', 'Camera_1.xnb', 'Camera_2.xnb', 'Camera_3.xnb', 'Camera_4.xnb', 'Camera_5.xnb', 'Camera_6.xnb', 'Camera_7.xnb', 'Craft_Toggle_0.xnb', 'Craft_Toggle_1.xnb', 'Craft_Toggle_2.xnb', 'Craft_Toggle_3.xnb', 'Cursor_0.xnb', 'Cursor_1.xnb', 'Cursor_10.xnb', 'Cursor_11.xnb', 'Cursor_12.xnb', 'Cursor_2.xnb', 'Cursor_3.xnb', 'Cursor_4.xnb', 'Cursor_5.xnb', 'Cursor_6.xnb', 'Cursor_7.xnb', 'Cursor_8.xnb', 'Cursor_9.xnb', 'DisplaySlots_0.xnb', 'DisplaySlots_1.xnb', 'DisplaySlots_10.xnb', 'DisplaySlots_2.xnb', 'DisplaySlots_3.xnb', 'DisplaySlots_4.xnb', 'DisplaySlots_5.xnb', 'DisplaySlots_6.xnb', 'DisplaySlots_7.xnb', 'DisplaySlots_8.xnb', 'DisplaySlots_9.xnb', 'Divider.xnb', 'IconCorruption.xnb', 'IconCrimson.xnb', 'IconHallowCorruption.xnb', 'IconHallowCrimson.xnb', 'InfoIcon_0.xnb', 'InfoIcon_1.xnb', 'InfoIcon_10.xnb', 'InfoIcon_11.xnb', 'InfoIcon_12.xnb', 'InfoIcon_2.xnb', 'InfoIcon_3.xnb', 'InfoIcon_4.xnb', 'InfoIcon_5.xnb', 'InfoIcon_6.xnb', 'InfoIcon_7.xnb', 'InfoIcon_8.xnb', 'InfoIcon_9.xnb', 'InnerPanelBackground.xnb', 'PanelBackground.xnb', 'PanelBorder.xnb', 'PlayerBackground.xnb', 'PVP_0.xnb', 'PVP_1.xnb', 'PVP_2.xnb', 'Reforge_0.xnb', 'Reforge_1.xnb', 'Scrollbar.xnb', 'ScrollbarInner.xnb']
+--
+directory .\Content\Images\UI\WorldGen is ready to sync. It has files: ['Outer Corrupt.xnb', 'Outer Crimson.xnb', 'Outer Dirt.xnb', 'Outer Lower.xnb']
+--
+...
