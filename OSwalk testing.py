@@ -35,7 +35,7 @@ def main():
     a=SyncDir('name',root,Wfiles)
     dirs.append(a)
   for dir in dirs:
-    print ('directory', dir.path, 'is ready to sync. It has files:', dir.filelist)
+    print ('directory: %s. Its ready to sync. It has files: %s ' %(dir.path, dir.filelist)
     print ('--')
   
     
