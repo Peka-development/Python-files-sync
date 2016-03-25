@@ -18,6 +18,7 @@ class ProcessedFolders():
 	args = sys.argv[1:]
 	#print (args)
 
+	#Check for invalid number of arguments:
 	if not args:
 		print ("Error: no input args, process terminated")
 		sys.exit(1)
@@ -30,6 +31,7 @@ class ProcessedFolders():
 		print ("Error: too much args, process terminated")
 		sys.exit(1)
 
+	#Set class attributes:
 	self.sourceFolder = args[0]
 	self.targetFolder = args[1]
 
@@ -64,6 +66,10 @@ def main():
 		print ('directory: %s. Its ready to sync. It has files: %s' %(dir.path, dir.filelist))
 		print ('--')
 
+    
+if __name__ == "__main__":
+	main()
+
 #indexTargetItems:
   # Walk through target folder and create list of contained items  
 
@@ -80,5 +86,3 @@ def main():
   #	filelist if its folder
   #	sync attributes
 
-if __name__ == "__main__":
-	main()
